@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Cátedra/1. Introducción.md",
+                "file": "Análisis de datos/1. Introducción.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Cátedra/1. Introducción.md",
+                "file": "Análisis de datos/1. Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Cátedra/1. Introducción.md",
+                "file": "Análisis de datos/1. Introducción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Cátedra/1. Introducción.md"
+                "file": "Análisis de datos/1. Introducción.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "3b25ab01ca525076",
   "lastOpenFiles": [
+    "Ciberseguridad/Cátedra/2. Conceptos.md",
     "Ciberseguridad/Cátedra/Reporte Ciberseguridad 2024.md",
     "Ciberseguridad/Cátedra/1. Introducción.md",
     "Análisis de datos/2. Análisis de Componentes Principales.md",
+    "Pasted image 20241002082712.png",
     "Pasted image 20241001154759.png",
     "Análisis de datos/1. Introducción.md",
     "Gestión de Servicios TI",
