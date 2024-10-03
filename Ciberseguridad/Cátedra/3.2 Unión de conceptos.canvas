@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"a74d27449a1e323d","type":"text","text":"Actores","x":180,"y":660,"width":250,"height":60},
+		{"id":"b955ad879330bbfd","type":"text","text":"Controles","x":430,"y":780,"width":250,"height":60},
+		{"id":"39ebfe4ff0387ba7","type":"text","text":"Vulnerabilidades","x":680,"y":1020,"width":250,"height":60},
+		{"id":"e4b2629e4045f902","type":"text","text":"Riesgos","x":1220,"y":940,"width":250,"height":60},
+		{"id":"402db331bc121e0b","type":"text","text":"Agentes de amenazas","x":180,"y":1180,"width":250,"height":60},
+		{"id":"45e1e46dc54197ee","type":"text","text":"Amenazas","x":434,"y":1350,"width":250,"height":60},
+		{"id":"4622305dd5fcfb05","type":"text","text":"Activos","x":1220,"y":1350,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"20fa57d0e237ff3a","fromNode":"a74d27449a1e323d","fromSide":"bottom","toNode":"b955ad879330bbfd","toSide":"left","label":"Imponen"},
+		{"id":"31c4604a1bee3150","fromNode":"b955ad879330bbfd","fromSide":"right","toNode":"e4b2629e4045f902","toSide":"top","label":"Para reducir"},
+		{"id":"ba92f143683ac382","fromNode":"39ebfe4ff0387ba7","fromSide":"left","toNode":"b955ad879330bbfd","toSide":"bottom","label":"Que pueden ser \nreducidos por"},
+		{"id":"f795e6ba6edec5c7","fromNode":"b955ad879330bbfd","fromSide":"right","toNode":"39ebfe4ff0387ba7","toSide":"top","label":"Que pueden poseer"},
+		{"id":"1776e1dcf2ee02a2","fromNode":"a74d27449a1e323d","fromSide":"left","toNode":"39ebfe4ff0387ba7","toSide":"left","label":"Pueden estar conscientes de"},
+		{"id":"44221faf7facace3","fromNode":"402db331bc121e0b","fromSide":"right","toNode":"45e1e46dc54197ee","toSide":"top","label":"se aprovechan de"},
+		{"id":"13590d37cda2de2e","fromNode":"45e1e46dc54197ee","fromSide":"right","toNode":"39ebfe4ff0387ba7","toSide":"bottom","label":"que explotan"},
+		{"id":"21b224d10a2154a1","fromNode":"39ebfe4ff0387ba7","fromSide":"right","toNode":"e4b2629e4045f902","toSide":"bottom","label":"Provocando"},
+		{"id":"e2c8033bf6572ac9","fromNode":"45e1e46dc54197ee","fromSide":"right","toNode":"e4b2629e4045f902","toSide":"bottom","label":"Que incrementan a"},
+		{"id":"d98a57a566c9cfd4","fromNode":"45e1e46dc54197ee","fromSide":"right","toNode":"4622305dd5fcfb05","toSide":"left","label":"a"},
+		{"id":"e56fff8321c955c1","fromNode":"402db331bc121e0b","fromSide":"bottom","toNode":"4622305dd5fcfb05","toSide":"bottom","label":"desean abusar y/o \npueden dañar a"},
+		{"id":"d8a0fe8130faa547","fromNode":"a74d27449a1e323d","fromSide":"right","toNode":"e4b2629e4045f902","toSide":"top","label":"Desean minimizar"},
+		{"id":"583911b1138799c5","fromNode":"a74d27449a1e323d","fromSide":"top","toNode":"4622305dd5fcfb05","toSide":"top","label":"valor"}
+	]
+}

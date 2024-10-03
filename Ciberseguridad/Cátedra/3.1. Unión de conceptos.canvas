@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"40ef2b38a858ce31","type":"text","text":"Agente de amenaza","x":-300,"y":-160,"width":250,"height":60},
+		{"id":"481834fec3e739ef","type":"text","text":"Control","x":-300,"y":380,"width":250,"height":60},
+		{"id":"0ccc8c99ece151c2","type":"text","text":"Amenaza","x":120,"y":-160,"width":250,"height":60},
+		{"id":"a58c1f5d167249c6","type":"text","text":"Vulnerabilidades","x":500,"y":-80,"width":250,"height":60},
+		{"id":"dee79e217666dbaa","type":"text","text":"Riesgo","x":750,"y":20,"width":250,"height":60},
+		{"id":"b0bddc64bd7a416b","type":"text","text":"Activo","x":500,"y":120,"width":250,"height":60},
+		{"id":"19629009afd487d6","type":"text","text":"Exposición","x":120,"y":240,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"726b6a329fe95959","fromNode":"40ef2b38a858ce31","fromSide":"top","toNode":"0ccc8c99ece151c2","toSide":"top","label":"Da lugar a"},
+		{"id":"0007f8dbf3903b78","fromNode":"481834fec3e739ef","fromSide":"top","toNode":"40ef2b38a858ce31","toSide":"bottom","label":"Directamente\nafecta"},
+		{"id":"c30dd1178ed0de78","fromNode":"19629009afd487d6","fromSide":"bottom","toNode":"481834fec3e739ef","toSide":"right","label":"Puede ser\ncontrarrestada por un"},
+		{"id":"453b98dd0ab7c82c","fromNode":"b0bddc64bd7a416b","fromSide":"left","toNode":"19629009afd487d6","toSide":"right","label":"Y causa una"},
+		{"id":"40367293d8a840cc","fromNode":"dee79e217666dbaa","fromSide":"bottom","toNode":"b0bddc64bd7a416b","toSide":"right","label":"Puede dañar"},
+		{"id":"f70947f8fd13c490","fromNode":"0ccc8c99ece151c2","fromSide":"right","toNode":"a58c1f5d167249c6","toSide":"left","label":"Explota"},
+		{"id":"e1745603013fb330","fromNode":"a58c1f5d167249c6","fromSide":"right","toNode":"dee79e217666dbaa","toSide":"top","label":"Conduce a"}
+	]
+}
