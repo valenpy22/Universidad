@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Cátedra/2.1 Actividad formativa 1.md",
+                "file": "Sistemas Paralelos y Distribuidos/3. OpenMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Cátedra/2.1 Actividad formativa 1.md",
+                "file": "Sistemas Paralelos y Distribuidos/3. OpenMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Cátedra/2.1 Actividad formativa 1.md",
+                "file": "Sistemas Paralelos y Distribuidos/3. OpenMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Cátedra/2.1 Actividad formativa 1.md"
+                "file": "Sistemas Paralelos y Distribuidos/3. OpenMP.md"
               }
             }
           }
@@ -148,20 +148,27 @@
   },
   "active": "8541571644c9527b",
   "lastOpenFiles": [
-    "Ciberseguridad/Cátedra/Pasted image 20241002140103.png",
+    "Pasted image 20241007104412.png",
+    "Sistemas Paralelos y Distribuidos/Pasted image 20241007102241.png",
+    "Sistemas Paralelos y Distribuidos/Pasted image 20241007102140.png",
+    "Ciberseguridad/Pasted image 20241002145016.png",
+    "Sistemas Paralelos y Distribuidos/Pasted image 20241007101913.png",
+    "Sistemas Paralelos y Distribuidos/3. OpenMP.md",
+    "PINGESO/1. Entrevista de requisitos.md",
+    "Gestión de Servicios TI/1. Clase 1.md",
+    "Análisis de datos/3. Análisis de Agrupamientos.md",
     "Ciberseguridad/Cátedra/2.1 Actividad formativa 1.md",
+    "PINGESO",
+    "Ciberseguridad/Cátedra/Pasted image 20241002140103.png",
     "Ciberseguridad/Cátedra/3. Definiciones.md",
     "Ciberseguridad/Cátedra/2. Conceptos.md",
     "Ciberseguridad/Cátedra/3.2 Unión de conceptos.canvas",
     "Untitled mindmap.md",
     "Sin título.md",
-    "Pasted image 20241002145016.png",
     "Ciberseguridad/Cátedra/3.1. Unión de conceptos.canvas",
     "Ciberseguridad/Cátedra/3.2 Unión de con.canvas",
     "Ciberseguridad/Cátedra/1. Introducción.md",
     "Análisis de datos/Pasted image 20241001154759.png",
-    "Gestión de Servicios TI/Sin título.md",
-    "Sistemas Paralelos y Distribuidos/3. OpenMP.md",
     "Sistemas Paralelos y Distribuidos/2. Concurrencia.md",
     "Sistemas Paralelos y Distribuidos/1. Paralelismo.md",
     "Análisis de datos/1. Introducción.md",
