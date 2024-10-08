@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Paralelos y Distribuidos/3. OpenMP.md",
+                "file": "Sistemas Paralelos y Distribuidos/4. Rendimiento computacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Paralelos y Distribuidos/3. OpenMP.md",
+                "file": "Sistemas Paralelos y Distribuidos/4. Rendimiento computacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Paralelos y Distribuidos/3. OpenMP.md",
+                "file": "Sistemas Paralelos y Distribuidos/4. Rendimiento computacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Paralelos y Distribuidos/3. OpenMP.md"
+                "file": "Sistemas Paralelos y Distribuidos/4. Rendimiento computacional.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "8541571644c9527b",
   "lastOpenFiles": [
+    "Sistemas Paralelos y Distribuidos/3. OpenMP.md",
+    "Sistemas Paralelos y Distribuidos/4. Rendimiento computacional.md",
     "Pasted image 20241007104412.png",
     "Sistemas Paralelos y Distribuidos/Pasted image 20241007102241.png",
     "Sistemas Paralelos y Distribuidos/Pasted image 20241007102140.png",
     "Ciberseguridad/Pasted image 20241002145016.png",
     "Sistemas Paralelos y Distribuidos/Pasted image 20241007101913.png",
-    "Sistemas Paralelos y Distribuidos/3. OpenMP.md",
     "PINGESO/1. Entrevista de requisitos.md",
     "Gestión de Servicios TI/1. Clase 1.md",
     "Análisis de datos/3. Análisis de Agrupamientos.md",
